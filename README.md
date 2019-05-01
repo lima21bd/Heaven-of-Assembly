@@ -1,2 +1,2 @@
-# Heaven-of-Assembly-
+# Heaven-of-Assembly
 Problems are enlisted all together on Problem List document. Enlisted problems are solved using Assembly programming language. Here 95% problems have taken from the book - 'Assembly Language Programming and Organization of the IBM PC' which is written by Ytha Yu and Charles Marut. This book is recongnized  as the Bible of Assembly programming language. Before seeing the solution make sure that you tried enough. Don’t paste the whole code, just find out the logic. Happy Coding......
